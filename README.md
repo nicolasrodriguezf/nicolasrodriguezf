@@ -39,9 +39,9 @@ A NotebookLM-style educational study assistant with hybrid semantic and BM25 ret
 
 ## Currently
 
-- 🚀 Starting the s16vc Founders for Founders Startup Bootcamp (July 2026)
-- 🏛️ Running LUNIX — brand, socials, keynote speakers and company visits (last one: Prosus, Amsterdam, 40 students)
-- 🔨 Building more. More repos coming.
+- 🚀 Participating in the s16vc Founders for Founders Startup Bootcamp this summer. 
+- 🏛️ Running LUNIX as Co-founder and Chair of Brand Management, running socials, keynote speakers and company visits.
+- 🔨 Building more.
 
 ---
 
